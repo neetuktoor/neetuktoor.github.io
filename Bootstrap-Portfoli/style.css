@@ -1,0 +1,211 @@
+body {
+	
+background-image: url("images/background.png");
+width: 100%;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-size: 30px;
+  line-height: 49px;
+border-bottom: 3px solid #ddd;
+
+}
+
+h2{
+	border-bottom: 1px solid #ddd;
+	font-size: 18px;
+
+}
+
+h3 {
+  font-size: 22px;
+  text-align: left;
+}
+
+.navbar-header {
+	background: #4aaaa5;
+	font-family: "Georgia", "Times", "Arial"
+
+
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    border-color: #gray;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 0px;
+    text-align: center;
+    font-size: 32px;
+    border-left: 1px solid #efefef;
+
+}
+
+h3 {
+	background-color: #4aaaa5;
+	font-family: "Georgia", "Times", "Arial"
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	text-align: center;
+	width: 203px;
+}
+
+h2 {
+	text-align: center;
+}
+
+#biopic {
+  	float: left;
+}
+
+.footer{
+	text-align: center;
+}
+/* sidebar */
+
+/*.panel-body {
+float: right;
+background: #fff;
+display: inline;
+padding-right: 60px;
+}
+*/
+/*
+h2 {
+  padding-bottom: 20px;
+  padding-top: 10px;
+ bottom-border: 1px solid #ddd;
+  line-height: 22px;
+  background: gray;
+ color: white;
+}
+
+.containerConnectMe {
+	background: red;
+}*/
+
+
+/* sidebar */
+
+/*.sidebar {
+  float: right;
+  width: 100%;
+  max-width: 270px;
+  padding: 30px;
+  margin-bottom: 20px;
+  background: #fff;
+  border: 1px solid #ddd;
+}*/
+
+/*h3,
+.sidebar h2 {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  line-height: 22px;
+  border-bottom: 2px solid #eee;*/
+/*}
+*/
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
+.social:last-child {
+  margin-right: 0;
+}
+
+* contact page */
+
+#contact-form {
+	width: 300px;
+}
+
+#contact-form ul {
+  margin-bottom: 20px;
+}
+
+#contact-form li {
+  margin-bottom: 10px;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+  display: block;
+  width: 100%;
+}
+
+input[type=text],
+input[type=email],
+textarea {
+  height: 35px;
+  padding: 0 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+}
+
+textarea {
+  height: 200px;
+}
+
+input[type=submit] {
+  padding: 10px 30px;
+  font-size: 18px;
+  color: #fff;
+  cursor: pointer;
+  background: #4aaaa5;
+  border: 0 none;
+}
+
+
+/*aside {
+	float:right;
+	background-color: white;
+	width: 200px;
+	display: inline-block;
+	padding: 90px;
+}*/
+
+section {
+	background-color: white;
+	width: 800px;
+}
+
+.sidebar{
+	width: 200px;
+	float: right;
+}
+
+footer {
+	clear: both;
+	bottom: 0px;
+	text-align: center;
+	color: #fff;
+	border-top: 5px solid #4aaaa5;
+	background: gray;
+	margin-top: 200px;
+	padding-top: 36px;
+    padding-bottom: 30px;
+
+}
+
+footer p {
+	padding-top:30px;
+	margin-bottom: 0px;
+}
+
+

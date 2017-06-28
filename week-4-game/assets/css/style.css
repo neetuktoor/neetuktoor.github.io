@@ -1,0 +1,104 @@
+body {
+	background-image: url("../images/background2.jpg");
+}
+
+#winsAndLosses {
+	color: white;
+}
+
+h1{
+	background-color: #FF8C00;
+	color: white;
+	clear: both;
+	padding-top: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	border: solid 2px #FF8C00;
+	font-size: 32px;
+	width: 250px;
+	height: 50px;
+	text-align: center;
+}
+
+h3, h2{
+	color: white;
+}
+
+
+h4 {
+	color: #FFD700;
+	font-size: 32px;
+}
+
+h5 {
+	color: teal;
+	font-size: 32px;
+	text-align: left;
+}
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#instructions {
+	background-color: #FFF8DC;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 5px;
+	border: solid 1px #FFF8DC;
+}
+
+p {
+	color: teal;
+	font-size: 18px;
+
+}
+
+#numberToGuess{
+
+	background-color: #FFD700;
+	float: left;
+/*	display: inline-block;
+*/	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #FFD700;
+	height: 110px;
+	width: 265px;
+}
+
+#scoreboard {
+	background-color: #000080;
+	display: inline-block;
+	padding: 10px 40px 40px 10px;
+	margin-top: 20px;
+	margin-left: 10px;
+	border: solid 1px #000080
+	/*width: 300px;
+	height: 100px;*/
+}
+
+#totalScore{
+	background-color: teal;
+	display: inline-block;
+	width: 300px;
+	height: 23px;
+	padding-top: 5px;
+}
+
+#generatedScore {
+	background-color: teal;
+	display: inline-block;
+	width: 300px;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+#gem1, #gem2, #gem3, #gem4 {
+	width: 100px;
+	height: 100px;
+	border: solid 1px white;
+}
+
